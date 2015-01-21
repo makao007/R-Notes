@@ -1,5 +1,5 @@
 # Data Mining with R
-#### the Book resource : http://www.dcc.fc.up.pt/~ltorgo/DataMiningWithR/
+#### the Book [resource](http://www.dcc.fc.up.pt/~ltorgo/DataMiningWithR/)
 
     install.packages("DMwR")
     library("DMwR")
